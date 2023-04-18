@@ -1,7 +1,7 @@
 ## Hi, I'm Joe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
-I'm an Informatics Engineer specializing in web development, and I'm excited to share my journey with you. I started creating websites since I was young, which sparked my passion for technology. 
+I'm an Software Developer specializing in web development, and I'm excited to share my journey with you. I started creating websites since I was young, which sparked my passion for technology. 
 Over the years, I've been curious and positive, always seeking new challenges to refine my skills. 
 
 As a student at the Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. I'm committed to continual learning and eager to see where my passion for technology takes me. 
