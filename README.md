@@ -12,7 +12,7 @@ Thanks for reading my summary, and I look forward to connecting with you soon. �
 
 <br />
 
-📫 How to reach me: **joejoyalt@gmail.com**
+📫 How to reach me: **joejoyalt@gmail.com** <br />
 🌐 Get to know me in more depth on my website: [joealtdev.com](http://joealtdev.com)
 
 <br />
