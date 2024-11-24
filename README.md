@@ -1,19 +1,20 @@
 ## Hi, I'm Joe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## About me
-I'm an Software Developer specializing in web development, and I'm excited to share my journey with you. I started creating websites since I was young, which sparked my passion for technology. 
-Over the years, I've been curious and positive, always seeking new challenges to refine my skills. 
+I'm a Software Developer specializing in web development, and I'm excited to share my journey with you. I started creating websites when I was young, which ignited my passion for technology. Over the years, my curiosity and positivity have driven me to seek new challenges and continuously refine my skills.
 
-As a student at the Assemble Institute of Technology, I've learned numerous technologies, including JavaScript, GIT, PHP, SQL, React, and Node.js. I'm committed to continual learning and eager to see where my passion for technology takes me. 
+Currently, I work as a Web Engineer at Vinted, contributing to their second-hand fashion platform. My role focuses on developing scalable web solutions, implementing new features, and ensuring an exceptional user experience. This opportunity has allowed me to grow both technically and collaboratively, working with cross-functional teams in an agile environment.
 
-What are my areas? 👨🏻‍🎤 Software Development | 🕊 Graphic Design | 🚀 E-commerce & Digital | 💼 Marketing | 🏊Swimming
+Previously, as a student at the Assemble Institute of Technology, I gained hands-on experience with technologies like JavaScript, GIT, PHP, SQL, React, and Node.js. I'm passionate about continuous learning and excited about the possibilities technology holds.
+
+What are my areas? 👨🏻‍🎤 Software Development | 🕊 Graphic Design | 🚀 E-commerce & Digital | 💼 Marketing | 🏊 Swimming
 
 Thanks for reading my summary, and I look forward to connecting with you soon. 👍😊
 
 <br />
 
 📫 How to reach me: **joejoyalt@gmail.com** <br />
-🌐 Get to know me in more depth on my website: [joealtdev.com](http://joealtdev.com)
+🌐 Get to know me in more depth on my website: [joealt.dev](http://joealt.dev)
 
 <br />
 <br />
